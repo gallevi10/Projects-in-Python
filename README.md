@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a console-based implementation of the classic Hangman game.<br>
+This is an implementation of the classic Hangman game.<br>
 In this game, the player tries to guess a secret word one letter at a time.<br>
 The player is allowed a limited number of incorrect guesses before the hangman is fully drawn, leading to a loss.<br>
 The game features colorful ASCII art, customizable secret words, and user input validation.
