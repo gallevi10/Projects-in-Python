@@ -21,10 +21,10 @@ The objective is to score points by getting the ball past the opposing paddle.
 ![Game Menu](screenshots/menu.png)
 
 
-![Gameplay](screenshots/gameplay.png)
-
-
 ![1player difficulty](screenshots/1player_difficulty.png)
+
+
+![Gameplay](screenshots/gameplay.png)
 
 
 ![Game Over](screenshots/game_over.png)
