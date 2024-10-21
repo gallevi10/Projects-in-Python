@@ -17,17 +17,17 @@ The game features a menu for selecting difficulty levels and a scoreboard to tra
 
 ## Screenshots
 
-#Menu
+# Menu
 ![Game Menu](screenshots/menu.png)
 
-#Gameplay 1
+# Gameplay 1
 ![Gameplay 1](screenshots/gameplay1.png)
 
-#Gameplay2
+# Gameplay2
 ![Gameplay 2](screenshots/gameplay2.png)
 
-#Gameplay3
+# Gameplay3
 ![Gameplay 3](screenshots/gameplay3.png)
 
-#Game Over
+# Game Over
 ![Game Over](screenshots/play_again.png)
