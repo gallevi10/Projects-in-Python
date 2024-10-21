@@ -7,7 +7,7 @@ The objective is to score points by getting the ball past the opposing paddle.
 
 ## Features
 - **Game Modes**: 
-  - **Single-player**: Play against an AI with selectable difficulty (Easy, Medium, Hard).
+  - **Single-player**: Play against the computer with selectable difficulty (Easy, Medium, Hard).
   - **Two-player**: Compete against a friend using keyboard controls.
   
 - **Dynamic Gameplay**: The ball bounces off walls and paddles, and players score points when the opponent fails to return the ball.
@@ -18,13 +18,14 @@ The objective is to score points by getting the ball past the opposing paddle.
 
 ## Screenshots
 
+### Menu
 ![Game Menu](screenshots/menu.png)
 
-
+### Difficulties
 ![1player difficulty](screenshots/1player_difficulty.png)
 
-
+### Gameplay
 ![Gameplay](screenshots/gameplay.png)
 
-
+### Game Over
 ![Game Over](screenshots/game_over.png)
