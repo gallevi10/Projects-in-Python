@@ -16,12 +16,17 @@ The game features a menu for selecting difficulty levels and a scoreboard to tra
 - Turtle graphics library
 
 ## Screenshots
+
 ![Game Menu](screenshots/menu.png)
+
 
 ![Gameplay 1](screenshots/gameplay1.png)
 
+
 ![Gameplay 2](screenshots/gameplay2.png)
 
+
 ![Gameplay 3](screenshots/gameplay3.png)
+
 
 ![Game Over](screenshots/play_again.png)
