@@ -29,5 +29,5 @@ The game features a menu for selecting difficulty levels and a scoreboard to tra
 ### Gameplay 3
 ![Gameplay 3](screenshots/gameplay3.png)
 
-### Game Over
+### Game Over/Play again menu
 ![Game Over](screenshots/play_again.png)
