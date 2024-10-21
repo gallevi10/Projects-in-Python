@@ -15,3 +15,16 @@ The objective is to score points by getting the ball past the opposing paddle.
 - **Scoreboard**: Tracks and displays the current score for both players.
 
 - **User-friendly Menu**: Choose game modes and difficulty levels with an interactive menu.
+
+## Screenshots
+
+![Game Menu](screenshots/menu.png)
+
+
+![Gameplay](screenshots/gameplay.png)
+
+
+![1player difficulty](screenshots/1player_difficulty.png)
+
+
+![Game Over](screenshots/game_over.png)
