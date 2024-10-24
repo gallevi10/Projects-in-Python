@@ -92,20 +92,20 @@ while game_is_on: # Main game loop
         scoreboard.increase()
         food.respawn()
 
+    # snake collision with its own body
+    for part in snake.snake_body[1:]:
+        if snake.snake_head.distance(part) < CLOSE_TO_ITSELF:
+            game_is_on = False
+
     # snake collision with the wall
     if (
+        game_is_on and # the snake did not collide with itself
         snake.snake_head.xcor() >= EDGE or # collision with right wall
         snake.snake_head.xcor() <= -EDGE or # collision with left wall
         snake.snake_head.ycor() >= TOP_EDGE or # collision with top wall
         snake.snake_head.ycor() <= -EDGE # collision with bottom wall
         ):
         game_is_on = False
-
-
-    # snake collision with its own body
-    for part in snake.snake_body[1:]:
-        if snake.snake_head.distance(part) < CLOSE_TO_ITSELF:
-            game_is_on = False
 
     # game over handling
     if not game_is_on:
