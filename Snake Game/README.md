@@ -13,6 +13,7 @@ The game features a menu for selecting difficulty levels and a scoreboard to tra
 
 ## Technologies Used
 - Python 3
+- OOP (Object-Oriented Programming)
 - Turtle graphics library
 
 ## Screenshots
