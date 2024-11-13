@@ -24,7 +24,7 @@ import time
 def dont_move():
     pass
 
-# movement enabling and disabling function
+# movement enabling and disabling functions
 def enable_movement():
     """
     Enables the snake's movement by binding keyboard keys to the corresponding movement methods.
